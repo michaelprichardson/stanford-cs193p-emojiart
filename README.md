@@ -1,3 +1,3 @@
 # stanford-cs193p-emojiart
 
-The readme for this project
+I have updated this to test the changes functionality
